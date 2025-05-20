@@ -1,0 +1,13 @@
+S O L I D
+
+São 5 principios de design de classes orientado a objetos
+
+Esses cinco principios nos ajudam a entender a necessidade de determinados padroes de projetos e arquitetura de sofware em geral
+
+SOLID foram apresentados pela primeira vez pelo famoso cientista da computaçao Robert J. Martin(Uncle Bob)
+
+S - Principio da Responsabilidade Unica / Single Responsibility Principle
+O - Principio Aberto/Fechado / Open/Closed Principle
+L - Principio da Substitiuição de Liskov / Liskov Substituion Principle
+I - Principio da Segregação de Interfaces / Interface Segregation Principle
+D - Principio da Inversao da Dependencia / Dependency Inversion Principle
